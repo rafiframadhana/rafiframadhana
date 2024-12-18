@@ -35,6 +35,7 @@ A simple and responsive **JavaScript** app for managing tasks, built with a clea
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafiframadhana&show_icons=true&count_private=true&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafiframadhana&layout=compact&hide=html&theme=radical)
 
 ---
 
@@ -45,3 +46,4 @@ A simple and responsive **JavaScript** app for managing tasks, built with a clea
 - 🌐 **Website:** [rafiframadhana.github.io](https://rafiframadhana.github.io)
 
 ---
+![Profile Views](https://shields.io/badge/Profile%20Views-1234-blue)
