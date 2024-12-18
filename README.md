@@ -1,26 +1,49 @@
-# Hello, I'm Rafif Ramadhana 👋
+# Hi there! I'm Rafif Ramadhana 👋
 
-Welcome to my GitHub profile! I am a passionate **Frontend Developer** who loves creating **interactive web applications**.
+**Frontend Developer | Web Enthusiast | Problem Solver**
+
+Welcome to my GitHub! I’m a passionate **Frontend Developer** with a strong foundation in **JavaScript**, **HTML**, and **CSS**. I enjoy creating beautiful and user-friendly web applications. 🚀
 
 ## About Me
-- 🎓 **Bachelor of Science in Computer Science**
-- 💻 I am currently learning **Backend Development** and exploring **AI**.
-- 🌱 I am passionate about **clean code**, **UI/UX design**, and **web performance**.
+- 🎓 **Computer Science Graduate** from the University of Lucknow
+- 💻 Passionate about **web technologies** and **UI/UX design**
+- 🌱 Always learning new technologies, currently diving into **Backend Development** and **AI**
+- 📍 Based in **Aceh, Indonesia**
 
-## Skills:
-- **Languages**: `JavaScript`, `HTML`, `CSS`, `C++`
-- **Tools**: `VSCode`, `Git`, `GitHub`, `Jasmine`
+---
 
-## My Projects:
+## 🌐 My Tech Stack
+
+**Languages:**
+- `JavaScript` | `HTML` | `CSS` | `C++`| `SQL(MySQL`
+
+**Tools:**
+- `VSCode` | `Git` | `GitHub` | `Jasmine`
+
+---
+
+## 🔥 Featured Projects
+
 ### [Amazon Clone](https://github.com/rafiframadhana/amazon-clone)
-A fully responsive e-commerce website built using HTML, CSS, and JavaScript.
+An e-commerce website built with **HTML**, **CSS**, and **JavaScript**, featuring **product display**, **checkout**, **order history**, and **tracking**.
 
 ### [Todo List](https://github.com/rafiframadhana/todo-list)
-A simple web application for task management, built with JavaScript.
+A simple and responsive **JavaScript** app for managing tasks, built with a clean UI and smooth user experience.
 
-## GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafiframadhana&show_icons=true)
+---
 
-## Connect with Me:
-- 📧 Email: rafiframadhana.cs@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rafiframadhana)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafiframadhana&show_icons=true&count_private=true&hide_title=true)
+
+---
+
+## 📞 Get in Touch
+
+- 📧 **Email:** [rafiframadhana.cs@gmail.com](mailto:rafiframadhana.cs@gmail.com)
+- 🔗 **LinkedIn:** [Rafif Ramadhana](https://www.linkedin.com/in/rafiframadhana)
+- 🌐 **Website:** [rafiframadhana.github.io](https://rafiframadhana.github.io)
+
+---
+
+> *"Code is like humor. When you have to explain it, it’s bad."* - Cory House
