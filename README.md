@@ -7,7 +7,7 @@ Welcome to my GitHub! I’m a passionate **Frontend Developer** with a strong fo
 ## About Me
 - 🎓 **Computer Science Graduate** from the University of Lucknow
 - 💻 Passionate about **web technologies** and **UI/UX design**
-- 🌱 Always learning new technologies, currently diving into **Backend Development** and **AI**
+- 🌱 Currently diving into **Backend Development** and **AI**
 - 📍 Based in **Aceh, Indonesia**
 
 ---
