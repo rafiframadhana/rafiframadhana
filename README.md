@@ -1,6 +1,6 @@
 # Hi there! I'm Rafif Ramadhana 👋
 
-**Frontend Developer | Web Enthusiast | Problem Solver**
+**Frontend Developer | Web Enthusiast**
 
 Welcome to my GitHub! I’m a passionate **Frontend Developer** with a strong foundation in **JavaScript**, **HTML**, and **CSS**. I enjoy creating beautiful and user-friendly web applications. 🚀
 
