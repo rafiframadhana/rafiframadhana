@@ -27,7 +27,7 @@ Welcome to my GitHub! I’m a passionate **Frontend Developer** with a strong fo
 ### [Amazon Clone](https://github.com/rafiframadhana/amazon-clone)
 An e-commerce website built with **HTML**, **CSS**, and **JavaScript**, featuring **product display**, **checkout**, **order history**, and **tracking**.
 
-### [Todo List](https://github.com/rafiframadhana/todo-list)
+### [Todo List](https://github.com/rafiframadhana/To-do-List)
 A simple and responsive **JavaScript** app for managing tasks, built with a clean UI and smooth user experience.
 
 ---
