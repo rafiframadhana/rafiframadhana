@@ -42,8 +42,8 @@ A simple and responsive **JavaScript** app for managing tasks, built with a clea
 ## 📞 Get in Touch
 
 - 📧 **Email:** [rafiframadhana.cs@gmail.com](mailto:rafiframadhana.cs@gmail.com)
-- 🔗 **LinkedIn:** [Rafif Ramadhana](https://www.linkedin.com/in/rafiframadhana)
-- 🌐 **Website:** [rafiframadhana.github.io](https://rafiframadhana.github.io)
+- 🔗 **LinkedIn:** [Rafif Ramadhana](https://www.linkedin.com/in/rafif-ramadhana)
+- 🌐 **Website:** [Coming Soon](https://)
 
 ---
 ![Profile Views](https://shields.io/badge/Profile%20Views-1234-blue)
