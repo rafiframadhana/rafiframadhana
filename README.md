@@ -15,7 +15,7 @@ Welcome to my GitHub! I’m a passionate **Frontend Developer** with a strong fo
 ## 🌐 My Tech Stack
 
 **Languages:**
-- `JavaScript` | `HTML` | `CSS` | `C++`| `C`| `SQL(MySQL`
+- `JavaScript` | `HTML` | `CSS` | `C++`| `C`| `SQL(MySQL)`
 
 **Tools:**
 - `VSCode` | `Git` | `GitHub` | `Jasmine`
