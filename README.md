@@ -42,7 +42,7 @@ A simple and responsive **JavaScript** app for managing tasks, built with a clea
 ## 📞 Get in Touch
 
 - 📧 **Email:** [rafiframadhana.cs@gmail.com](mailto:rafiframadhana.cs@gmail.com)
-- 🔗 **LinkedIn:** [Rafif Ramadhana](https://www.linkedin.com/in/rafif-ramadhana)
+- 🔗 **LinkedIn:** [Rafif Ramadhana](https://www.linkedin.com/in/rafif-ramadhana-230603250)
 - 🌐 **Website:** [Coming Soon](https://)
 
 ---
