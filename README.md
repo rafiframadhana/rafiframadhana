@@ -2,7 +2,7 @@
 
 **Frontend Developer | Web Enthusiast**
 
-Welcome to my GitHub! I’m a passionate **Frontend Developer** with a strong foundation in **JavaScript**, **HTML**, and **CSS**. I enjoy creating beautiful and user-friendly web applications. 🚀
+Welcome to my GitHub! I’m a passionate **Frontend Developer** with a strong foundation in **React Js**, **JavaScript**, **HTML**, and **CSS**. I enjoy creating beautiful and user-friendly web applications. 🚀
 
 ## About Me
 - 🎓 **Computer Science Graduate** from the University of Lucknow
@@ -15,22 +15,13 @@ Welcome to my GitHub! I’m a passionate **Frontend Developer** with a strong fo
 ## 🌐 My Tech Stack
 
 **Languages:**
-- `JavaScript` | `HTML` | `CSS` | `C++`| `C`| `SQL(MySQL)`
+- `React Js` |`JavaScript` | `HTML` | `CSS` | `C++`| `C`| `SQL(MySQL)`
 
 **Tools:**
 - `VSCode` | `Git` | `GitHub` | `Jasmine`
 
 ---
 
-## 🔥 Featured Projects
-
-### [Amazon Clone](https://github.com/rafiframadhana/amazon-clone)
-An e-commerce website built with **HTML**, **CSS**, and **JavaScript**, featuring **product display**, **checkout**, **order history**, and **tracking**.
-
-### [Todo List](https://github.com/rafiframadhana/To-do-List)
-A simple and responsive **JavaScript** app for managing tasks, built with a clean UI and smooth user experience.
-
----
 
 ## 📊 GitHub Stats
 
