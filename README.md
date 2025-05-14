@@ -43,11 +43,8 @@ Welcome to my GitHub! I’m a passionate **Fullstack Developer** with a strong f
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafiframadhana&show_icons=true&count_private=true&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafiframadhana&layout=compact&hide=html&theme=radical)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![github contribution grid snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif)
+
 
 ---
 
