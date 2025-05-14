@@ -54,3 +54,6 @@ Welcome to my GitHub! I’m a passionate **Fullstack Developer** with a strong f
 
 ---
 ![snake gif](https://github.com/rafiframadhana/rafiframadhana/blob/output/github-contribution-grid-snake.svg)
+[![Globe](https://github.com/rafiframadhana/rafiframadhana/blob/main/assets/globe.gif)](https://clustrmaps.com/site/1bnw7)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rafiframadhana&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
