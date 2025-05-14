@@ -1,6 +1,6 @@
 # Hi there! I'm Rafif Ramadhana 👋
 
-**Fullstack Developer | Web Enthusiast**
+**Fullstack Developer | Software Enthusiast**
 
 Welcome to my GitHub! I’m a passionate **Fullstack Developer** with a strong foundation in **React**, **Next.js**, **Node.js**, and **Express**. I enjoy creating beautiful and user-friendly web applications. 🚀
 
@@ -10,7 +10,7 @@ Welcome to my GitHub! I’m a passionate **Fullstack Developer** with a strong f
 
 ## About Me
 - 🎓 **Computer Science Graduate** from the University of Lucknow
-- 💻 Passionate about **web technologies** and **UI/UX design**
+- 💻 Passionate about **Technologies**
 - 🌱 Currently diving into **AI**
 - 📍 Based in **Aceh, Indonesia**
 
