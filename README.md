@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! I’m a passionate **Fullstack Developer** with a strong foundation in **React**, **Next.js**, **Node.js**, and **Express**. I enjoy creating beautiful and user-friendly web applications. 🚀
 
-![Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,js,ts,python,mongodb,mysql)
+![Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,js,ts,mongodb,mysql,vite)
 
 ---
 
@@ -72,10 +72,4 @@ Welcome to my GitHub! I’m a passionate **Fullstack Developer** with a strong f
 ## 🏆 Trophies
 
 [![GitHub trophies](https://github-profile-trophy.vercel.app/?username=rafiframadhana&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 🌍 Visitor Map
-
-[![Visitor Map](https://clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=it3tfbsK9aREpLANUjHZGZjwQiiYsubEv_anvgVec-s)](https://clustrmaps.com/site/1bnw7)
 
