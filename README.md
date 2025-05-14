@@ -6,6 +6,7 @@ Welcome to my GitHub! I’m a passionate **Fullstack Developer** with a strong f
 
 ![Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,js,ts,python,mongodb,mysql)
 
+---
 
 ## About Me
 - 🎓 **Computer Science Graduate** from the University of Lucknow
@@ -50,3 +51,6 @@ Welcome to my GitHub! I’m a passionate **Fullstack Developer** with a strong f
 - 📧 **Email:** [rafiframadhana.cs@gmail.com](mailto:rafiframadhana.cs@gmail.com)
 - 🔗 **LinkedIn:** [Rafif Ramadhana](https://www.linkedin.com/in/rafif-ramadhana-230603250)
 - 🌐 **Website:** [My Site](https://rafiframadhana.site/)
+
+---
+![snake gif](https://github.com/rafiframadhana/rafiframadhana/blob/output/github-contribution-grid-snake.svg)
