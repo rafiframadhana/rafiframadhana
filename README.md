@@ -43,6 +43,7 @@ Welcome to my GitHub! I’m a passionate **Fullstack Developer** with a strong f
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafiframadhana&show_icons=true&count_private=true&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafiframadhana&layout=compact&hide=html&theme=radical)
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -53,22 +54,5 @@ Welcome to my GitHub! I’m a passionate **Fullstack Developer** with a strong f
 - 🌐 **Website:** [My Site](https://rafiframadhana.site/)
 
 ---
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
----
+## 🏆 Trophies
 [![GitHub trophies](https://github-profile-trophy.vercel.app/?username=rafiframadhana&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-
-
