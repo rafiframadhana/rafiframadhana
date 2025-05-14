@@ -18,8 +18,11 @@ Welcome to my GitHub! I’m a passionate **Fullstack Developer** with a strong f
 
 ## 🌐 My Tech Stack
 
-**Languages:**
-- `JavaScript` | `Typescript` | `HTML` | `CSS` | `C++`| `C`| `Python`
+**Languages (Proficient):**
+- `JavaScript` | `Typescript` | `HTML` | `CSS` 
+
+**Languages (Familiar):**
+- `C++`| `C`| `Python`
   
 **Frameworks:**
 - `React` | `Next.js` | `Node.js` | `Express` | `TailwindCSS`
