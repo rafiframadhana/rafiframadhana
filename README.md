@@ -4,6 +4,9 @@
 
 Welcome to my GitHub! I’m a passionate **Fullstack Developer** with a strong foundation in **React**, **Next.js**, **Node.js**, and **Express**. I enjoy creating beautiful and user-friendly web applications. 🚀
 
+![Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,js,ts,python,mongodb,mysql)
+
+
 ## About Me
 - 🎓 **Computer Science Graduate** from the University of Lucknow
 - 💻 Passionate about **web technologies** and **UI/UX design**
