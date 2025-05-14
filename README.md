@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! I’m a passionate **Fullstack Developer** with a strong foundation in **React**, **Next.js**, **Node.js**, and **Express**. I enjoy creating beautiful and user-friendly web applications. 🚀
 
-![Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,js,ts,mongodb,mysql,vite)
+![Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,js,ts,mongodb,mysql,vite,vscode)
 
 ---
 
