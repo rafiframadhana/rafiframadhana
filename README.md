@@ -1,13 +1,13 @@
 # Hi there! I'm Rafif Ramadhana 👋
 
-**Frontend Developer | Web Enthusiast**
+**Fullstack Developer | Web Enthusiast**
 
-Welcome to my GitHub! I’m a passionate **Frontend Developer** with a strong foundation in **React Js**, **JavaScript**, **HTML**, and **CSS**. I enjoy creating beautiful and user-friendly web applications. 🚀
+Welcome to my GitHub! I’m a passionate **Fullstack Developer** with a strong foundation in **React**, **Next.js**, **Node.js**, and **Express**. I enjoy creating beautiful and user-friendly web applications. 🚀
 
 ## About Me
 - 🎓 **Computer Science Graduate** from the University of Lucknow
 - 💻 Passionate about **web technologies** and **UI/UX design**
-- 🌱 Currently diving into **Backend Development** and **AI**
+- 🌱 Currently diving into **AI**
 - 📍 Based in **Aceh, Indonesia**
 
 ---
@@ -15,10 +15,22 @@ Welcome to my GitHub! I’m a passionate **Frontend Developer** with a strong fo
 ## 🌐 My Tech Stack
 
 **Languages:**
-- `React Js` |`JavaScript` | `HTML` | `CSS` | `C++`| `C`| `SQL(MySQL)`
+- `JavaScript` | `Typescript` | `HTML` | `CSS` | `C++`| `C`| `Python`
+  
+**Frameworks:**
+- `React` | `Next.js` | `Node.js` | `Express` | `TailwindCSS`
+  
+**Database:**
+- `SQL(MySQL)` | `NoSQL(MongoDB)`
+  
+**Deployment:**
+- `Vercel` | `Netlify` | `Railway` | `GitHub Pages`
+  
+**Libraries:**
+- `Redux Toolkit` | `Zustand` | `Passport.js` | `Auth.js` | `React Router` | `shadcn` | `Material UI` | `Jasmine` | `Jest`
 
-**Tools:**
-- `VSCode` | `Git` | `GitHub` | `Jasmine`
+**IDE:**
+- `VSCode`
 
 ---
 
@@ -34,7 +46,7 @@ Welcome to my GitHub! I’m a passionate **Frontend Developer** with a strong fo
 
 - 📧 **Email:** [rafiframadhana.cs@gmail.com](mailto:rafiframadhana.cs@gmail.com)
 - 🔗 **LinkedIn:** [Rafif Ramadhana](https://www.linkedin.com/in/rafif-ramadhana-230603250)
-- 🌐 **Website:** [Coming Soon](https://)
+- 🌐 **Website:** [My Site](https://rafiframadhana.site/)
 
 ---
 ![Profile Views](https://shields.io/badge/Profile%20Views-1234-blue)
