@@ -53,7 +53,20 @@ Welcome to my GitHub! I’m a passionate **Fullstack Developer** with a strong f
 - 🌐 **Website:** [My Site](https://rafiframadhana.site/)
 
 ---
-![snake gif](https://github.com/rafiframadhana/rafiframadhana/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 [![Globe](https://github.com/rafiframadhana/rafiframadhana/blob/main/assets/globe.gif)](https://clustrmaps.com/site/1bnw7)
-[![trophy](https://github-profile-trophy.vercel.app/?username=rafiframadhana&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 
