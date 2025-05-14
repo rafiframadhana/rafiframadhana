@@ -47,6 +47,3 @@ Welcome to my GitHub! I’m a passionate **Fullstack Developer** with a strong f
 - 📧 **Email:** [rafiframadhana.cs@gmail.com](mailto:rafiframadhana.cs@gmail.com)
 - 🔗 **LinkedIn:** [Rafif Ramadhana](https://www.linkedin.com/in/rafif-ramadhana-230603250)
 - 🌐 **Website:** [My Site](https://rafiframadhana.site/)
-
----
-![Profile Views](https://shields.io/badge/Profile%20Views-1234-blue)
