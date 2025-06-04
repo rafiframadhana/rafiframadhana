@@ -11,7 +11,7 @@ Welcome to my GitHub! I’m a passionate **Fullstack Developer** with a strong f
 ## About Me
 - 🎓 **Computer Science Graduate** from the University of Lucknow
 - 💻 Passionate about **Technologies**
-- 🌱 Currently diving into **AI**
+- 🤖 Currently diving into **AI**
 - 📍 Based in **Aceh, Indonesia**
 
 ---
