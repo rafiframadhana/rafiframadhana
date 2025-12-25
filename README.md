@@ -1,8 +1,8 @@
-# Hi there! I'm Rafif Ramadhana 👋
+# Hi there! I'm Rafif Ramadhana 
 
-**Fullstack Developer | Software Enthusiast**
+**Software Developer**
 
-Welcome to my GitHub! I’m a passionate **Fullstack Developer** with a strong foundation in **React**, **Next.js**, **Node.js**, and **Express**. I enjoy creating beautiful and user-friendly web applications. 🚀
+Welcome to my GitHub! I’m a passionate **Software Developer** with a strong foundation in **React**, **Next.js**, **Node.js**, and **Express**. I enjoy creating beautiful and user-friendly web applications.
 
 ![Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,js,ts,mongodb,mysql,vite,vscode)
 
@@ -25,19 +25,10 @@ Welcome to my GitHub! I’m a passionate **Fullstack Developer** with a strong f
 - `C++`| `C`| `Python`
   
 **Frameworks:**
-- `React` | `Next.js` | `Node.js` | `Express` | `TailwindCSS`
+- `React` | `Next.js` | `Node.js` | `Express` | `TailwindCSS` | `React Native`
   
 **Database:**
-- `SQL(MySQL)` | `NoSQL(MongoDB)`
-  
-**Deployment:**
-- `Vercel` | `Netlify` | `Railway` | `GitHub Pages`
-  
-**Libraries:**
-- `Redux Toolkit` | `Zustand` | `Passport.js` | `Auth.js` | `React Router` | `shadcn` | `Material UI` | `Jasmine` | `Jest`
-
-**IDE:**
-- `VSCode`
+- `MongoDB` | `MySQL`
 
 ---
 
