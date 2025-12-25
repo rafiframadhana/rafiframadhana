@@ -32,38 +32,9 @@ Welcome to my GitHub! I’m a passionate **Software Developer** with a strong fo
 
 ---
 
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafiframadhana&show_icons=true&count_private=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafiframadhana&layout=compact&hide=html&theme=radical)
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
----
-
 ## 📞 Get in Touch
 
 - 📧 **Email:** [rafiframadhana.cs@gmail.com](mailto:rafiframadhana.cs@gmail.com)
 - 🔗 **LinkedIn:** [Rafif Ramadhana](https://www.linkedin.com/in/rafif-ramadhana-230603250)
 - 🌐 **Website:** [My Site](https://rafiframadhana.site/)
-
----
-
-## 🏆 Trophies
-
-[![GitHub trophies](https://github-profile-trophy.vercel.app/?username=rafiframadhana&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
